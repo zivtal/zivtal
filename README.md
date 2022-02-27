@@ -1,8 +1,5 @@
 ## Ziv Tal
-#### Full stack / Front-end developer
-
-Full Stack Junior Developer graduate of selective programming boot camp of Coding Academy. Also, received excellence scholarship from Israel Innovation Authority.
-Highly motivated, creative and autodidact, with high communication & interpersonal skills.
+### Full stack / Front-end developer
 
 ### Workcase
 ##### Viyno is wines database based on crowd wisdom, the Full stack project is written within 100 hours of work, using JavaScript ES6, HTML5, CSS3 / SCSS, React.js, Node.js / Rest API and SQL.
