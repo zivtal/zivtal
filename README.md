@@ -2,13 +2,13 @@
 ### Full stack / Front-end developer
 
 ### Workcase
-- **Production Book** is freelancer arena for event productions (for Desktop and Mobile): Demo: https://dev.productionbook.io
+- **Hitbook** is freelancer arena for event productions (for Desktop and Mobile): Demo: https://www.hitbook.io
 
   *Skills*: Vue 3, Vuex, TypeScript, i18n, PWA, Service worker, SCSS, Node.js / Rest API, MongoDB, Socket.io, Firebase, AWS S3
 
 <img width="600" alt="image" src="https://github.com/zivtal/zivtal/assets/31586269/bf3e51f5-4f8a-49f2-b721-8dd63a953557">
 
-- **Viyno** is wines database based on crowd wisdom (for Desktop and Mobile), Demo: https://viyno.herokuapp.com/ 
+- **Viyno** is wines database based on crowd wisdom (for Desktop and Mobile)
 
   *Skills*: React.js, Redux, JavaScript (*started converting into TypeScript*), SCSS, Node.js / Rest API, MariaDB / SQL, PWA.
 
